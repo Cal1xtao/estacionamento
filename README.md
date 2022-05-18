@@ -13,5 +13,9 @@ Enquanto  Se voce for deficiente fisico(a) digite 2, se nao for digite 9 Faca.
     Voce esta autorizado(a) para estacionar na vaga especial.
 Se não Voce nao esta autorizado(a) para estacionar na vaga especial.
  #  Fim  
- 
+ '''
+ git status
+ git  add
+ git commit
+ '''
 ![Diagrama vaga especial](https://user-images.githubusercontent.com/101893557/166337611-f5d54e8e-3353-4d57-8a1b-5a9612b29b92.png)
