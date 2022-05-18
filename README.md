@@ -1,4 +1,4 @@
-##  Estacionamento
+# Estacionamento
 # Inicio
 Enquanto  Se voce for idoso(a) digite 0, se nao for digite 9 Faca
     ler numero correspondente
