@@ -2,9 +2,8 @@
 # Inicio
 Enquanto  Se voce for idoso(a) digite 0, se nao for digite 9 Faca.
     ler numero correspondente.
-    Voce esta autorizado(a) para estacionar na vaga especial.
-    
-Se não Voce nao esta autorizado(a) para estacionar na vaga especial. 
+    Voce esta autorizado(a) para estacionar na vaga especial.  
+    Se não Voce nao esta autorizado(a) para estacionar na vaga especial
 
 Enquanto  Se voce for gestante digite 1, se nao for digite 9 Faca.
     ler numero correspondente.    
